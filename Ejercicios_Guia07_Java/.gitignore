@@ -12,8 +12,6 @@ build/
 *.tmp
 *.bak
 *.swp
-*.txt
-
 
 # Archivos de sistema operativo
 .DS_Store
