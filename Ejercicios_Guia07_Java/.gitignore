@@ -1,0 +1,20 @@
+# Archivos de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos compilados
+bin/
+build/
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.bak
+*.swp
+*.txt
+
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
